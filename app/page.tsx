@@ -385,7 +385,7 @@ export default function OIPProductionDashboard() {
                 <span className="px-2 py-0.5 rounded-full bg-emerald-500/20 border border-emerald-500/40 text-emerald-400 text-[10px] font-bold">
                   En temps réel
                 </span>
-              </div>
+              </div> 
 
               {/* Viewport : كبرنا الطول والعرض باش الفيديو يبان واعر */}
               <div className="relative rounded-lg overflow-hidden bg-[#000] border border-[#1e2d4a] h-[400px] w-full flex items-center justify-center group">
